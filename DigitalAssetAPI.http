@@ -1,0 +1,6 @@
+@DigitalAssetAPI_HostAddress = http://localhost:5170
+
+GET {{DigitalAssetAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
